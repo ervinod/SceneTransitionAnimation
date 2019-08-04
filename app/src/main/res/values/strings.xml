@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SceneTransitionAnimation</string>
+    <string name="activity_text_trans">trans</string>
+</resources>
